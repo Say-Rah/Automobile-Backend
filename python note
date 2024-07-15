@@ -1,0 +1,14 @@
+you cannot define a local variable outside a function but you define a global variable outside a function and call it in the function and it will work.
+you cannot print something that you did not define. it will give an error that it is undefined. 
+formatted string (f)
+
+polymorphism is the condition of occurring in several different forms
+the ability of different functions to respond 
+
+import helps you to assess properties
+
+operator over loading - when operator have different implementation depending on their arguments.
+abstraction is the concept of hiding the complex details of how something works and only showing the essential features.  It's like  a simplified model of a complex system.
+Think of it as focusing on what an object does rather than how it does it.
+
+My understanding of Abstraction: So in general. An abstraction is a class that creates necessary methods that must be used when it's inherited in other class or other subclasses.
